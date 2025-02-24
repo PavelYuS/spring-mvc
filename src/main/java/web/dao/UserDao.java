@@ -14,7 +14,5 @@ public interface UserDao {
     void remove(int id);
 
     User show(int id);
-
-
 }
 
